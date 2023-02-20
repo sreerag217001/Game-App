@@ -1,0 +1,89 @@
+ #c1 img{
+     width:1075px;
+     height:500px;
+     
+ }
+ .m1{
+  margin-left: 200px;
+  position: absolute;
+  top:200px;
+  font-family: 'Tourney', cursive;
+  font-weight: bolder;
+  
+ }
+ .m2 p{
+    position: absolute;
+    top:250px;
+    font-family: 'Luckiest Guy', cursive;;
+ }
+ .m3{
+    width:340px;
+    height:150px;
+    background-color: #171d47;
+    margin-left: 50px;
+    position: absolute;
+    top:-10px;
+    top:350px;
+    text-align: center;
+ }
+ .m4 img{
+    width:300px;
+    height:150px;
+    background-color: #171d47;
+    margin-left: 700px;
+    position: absolute;
+    top:-50px;
+    top:350px;
+ }
+ .m5{
+    width:1075px;
+    height:950px;
+    background-color: #010319;
+ }
+ .n1{
+    width:500px;
+    height:500px;
+    background-color: white;
+    margin-left: 100px;
+   
+ }
+ .n1 img{
+    width:500px;
+    height:500px;
+ }
+ .n2{
+    width:340px;
+    height:270px;
+    background-color: #010319;
+    margin-left: 680px;
+    margin-top: -400px;
+    color:#42f55a;
+    font-family: 'Bungee', cursive;
+ }
+ #cd{
+    font-family: 'Press Start 2P', cursive;
+ }
+ .n3{
+    width:510px;
+    height:400px;
+    background-color: white;
+    margin-top: 130px;
+   margin-left: 90px;
+    
+ }
+ .n3 img{
+    width:510px;
+    height:400px;
+ }
+ .n4{
+    width:510px;
+    height:400px;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: -400px;
+    
+ }
+ .n4 img{
+    width:510px;
+    height:400px;
+ }

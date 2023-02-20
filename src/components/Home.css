@@ -1,0 +1,120 @@
+.h1{
+    margin-left: 80px;
+}
+.b1{
+    color:#ffffff;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.a1{
+    background-color: #171d47;
+}
+#b2{
+    margin-left: 400px;
+    margin-top: -50px;
+    color:#fc035a;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px;
+    text-decoration-style: double;
+}
+
+
+.hi{
+    margin-left: 20px;
+    color:springgreen
+}
+.c1{
+    width:300px;
+    height:1000px;
+    background-color: #c6bfde;
+}
+.c2{
+    width:700px;
+    height:400px;
+    background-image:url('https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/9%20Ways%20to%20Boost%20Your%20Gaming%20Rig/How_to_Improve_Your_Gaming_PC_Performance-Thumb.jpg');
+    margin-left: 10px;
+    margin-top:10px;
+}
+.c3{
+    width:350px;
+    height:500px;
+    background-image: url('https://assets-prd.ignimgs.com/2022/09/23/top25modernpcgames-blogroll-1663951042311.jpg');
+    margin-left: 720px;
+    margin-top:-400px;
+}
+.c4{
+    width:700px;
+    height:400px;
+   background-image: url('https://c.files.bbci.co.uk/E909/production/_112375695_crucible976.jpg');
+    margin-left: 10px;
+    margin-top:-95px;
+}
+.c5{
+    width:350px;
+    height:295px;
+    margin-left: 720px;
+    margin-top:-295px;
+    background-color: #171d47;
+}
+.c5 p{
+    color:#fffefe;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: lighter;
+    background-color: #171d47;
+}
+
+
+.btn-2 {
+    letter-spacing: 0;
+}
+
+.btn-2:hover,
+.btn-2:active {
+  letter-spacing: 5px;
+}
+
+.btn-2:after,
+.btn-2:before {
+  backface-visibility: hidden;
+  border: 1px solid rgba(#fff, 0);
+  bottom: 0px;
+  content: " ";
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  transition: all 280ms ease-in-out;
+  width: 0;
+}
+
+.btn-2:hover:after,
+.btn-2:hover:before {
+  backface-visibility: hidden;
+  border-color: #fff;
+  transition: width 350ms ease-in-out;
+  width: 70%;
+}
+
+.btn-2:hover:before {
+  bottom: auto;
+  top: 0;
+  width: 70%;
+}
+.Bt{
+    margin-left: 90px;
+    margin-top: 50px;
+    width:900px;
+    height:50px;
+    background-color: #a83254;
+    color: white;
+     font-family: 'Alfa Slab One', cursive;
+     font-weight: bolder;
+     
+
+}
+.Bt:hover{
+    background-color:#32a836;
+    color:rgb(255, 255, 255);
+}
+
+
