@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Carousel from 'react-bootstrap/Carousel';
 
 
+
 import './Home.css';
 function Home() {
     
@@ -70,7 +71,10 @@ function Home() {
       <a href="https://twitter.com/Dave_Conner" class="btn btn-2">Click Here</a> 
   </div>
   
+  
 </div>
+
+
 </div>   
    
   )

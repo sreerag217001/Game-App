@@ -106,7 +106,10 @@ We will contact you as soon as possible to present our idea for the success of y
   
         </div>
         </div>
-       
+         
+         <div>
+          <img src="https://media.istockphoto.com/id/1320799591/vector/game-on-neon-game-controller-or-joystick-for-game-console-on-blue-background.jpg?s=612x612&w=0&k=20&c=CbxRq6ctP5Ta1QLu18UMtvgJf4D-zFpTMm0Rz14_Gy0=" width="100%" height="500px"/>
+         </div>
     </div>
       
   )

@@ -24,7 +24,7 @@ function Footer() {
         <button type="submit">JOIN</button>
         </form> 
       ):(
-        <h4 className='text-success'>Email successfully sent</h4>
+        <h4 className='text-success'>Thank you, your join request was successful! Please check your email inbox to confirm.</h4>
       )}
          
     </div>
